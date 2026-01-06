@@ -27,7 +27,7 @@ http://localhost:8080/
 <img width="1920" height="911" alt="Image" src="https://github.com/user-attachments/assets/559a54ec-7438-4a4f-9aaa-9fc3dfb8efa6" />
 
 **BlogPost API PATCH request in Postman**
-<img width="642" height="394" alt="Image" src="https://github.com/user-attachments/assets/f8b155c9-fd46-4d26-a2ef-3e874838f1b9" />
+<img width="643" height="427" alt="Image" src="https://github.com/user-attachments/assets/a5eee4b4-6b7b-42c6-a366-7fd42a4762f8" />
 
 **BlogPost API DELETE request in Postman**
-<img width="643" height="427" alt="Image" src="https://github.com/user-attachments/assets/a5eee4b4-6b7b-42c6-a366-7fd42a4762f8" />
+<img width="642" height="394" alt="Image" src="https://github.com/user-attachments/assets/f8b155c9-fd46-4d26-a2ef-3e874838f1b9" />
